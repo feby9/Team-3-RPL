@@ -27,5 +27,24 @@ Pada fitur ini, user dapat melakukan pemesanan paket wisata yang diinginkan. Pem
 3. Menambahkan paket wisata
 Pada fitur ini, user dapat menambahkan lokasi wisata dengan mendaftarkan diri sebagai tourguide dan bertanggung jawab penuh atas berlangsungnya kegiatan wisata tersebut.
 # Analisis User
+1. Target Aplikasi
+Target dari aplikasi kami adalah masyarakat yang hendak melakukan kegiatan wisata. 
+2. Permasalahan 
+- Banyak penawaran paket wisata masih dilakukan melalui brosur, pamflet, dan media cetak lainnya. 
+- Pemesanan paket wisata masih kurang efektif dan efisien karena pemesan harus berhubungan secara langsung dengan pihak yang bersangkutan. 
+- Banyak ditemukannya upaya penipuan dalam hal pemesanan paket wisata, banyak oknum tidak bertanggung jawab yang mebuat paket wisata palsu dan tidak dapat dipercaya. 
+- Sulitnya memperoleh informasi mengenai paket wisata dari berbagai lokasi wisata setiap daerah.
+# User Story
+- Sebagai seorang yang ingin melakukan perjalanan wisata, saya ingin mengetahui terlebih dahulu dimana saja letak lokasi wisata yang bagus.
+- Sebagai seorang yang ingin melakukan perjalanan wisata, saya ingin mengetahui secara rinci paket wisata yang hendak saya pesan.
+- Sebagai seorang yang ingin melakukan perjalanan wisata, saya ingin mengetahui dengan jelas siapa tourguide yang bertanggung jawab atas perjalanan wisata ini.
+- Sebagai seorang yang ingin melakukan perjalanan wisata, saya ingin melakukan banyak pemesanan wisata secara sekaligus tentunya dengan jadwal wisata yang terstruktur.
+
+# Use Case Diagram
+# Use Case Description
+# Activity Diagram
+# Gantt Chart
+# ERD
+# Hasil Implementasi Perangkat Lunak
 
  
