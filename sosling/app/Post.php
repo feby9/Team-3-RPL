@@ -7,11 +7,16 @@ use Illuminate\Database\Eloquent\Model;
 class Post extends Model
 {
     // Table Name
-    //protected $table = 'posts';
+    protected $table = 'posts';
 
     //primary key
-    //public $primaryKey = 'id';
+    public $primaryKey = 'id';
 
     //Timestamps
-    //public $timestamps = true;
+    public $timestamps = true;
+
+    //Setiap post adalah milik seorang user
+    public function user(){
+        return $this->belongsTo('App\User');
+    }
 }
