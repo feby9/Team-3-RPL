@@ -34,9 +34,12 @@ Route::get('/daftar', 'PagesController@daftar');
 Route::get('/pesanan', 'PagesController@pesanan');
 Route::get('/bantuan', 'PagesController@bantuan');
 Route::get('/about', 'PagesController@about');
-Route::get('/', 'PagesController@index');
+Route::get('/', 'PagesController@landing');
+
+Route::resource('posts', 'PostsController');
 
 
 
 
-
+Auth::routes();
+Route::get('/home', 'HomeController@index')->name('home');

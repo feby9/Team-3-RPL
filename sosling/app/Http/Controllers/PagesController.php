@@ -18,6 +18,10 @@ class PagesController extends Controller
         return view('pages.daftar');
     }
 
+    public function landing(){
+        return view('pages.landing');
+    }
+
     public function pesanan(){
         $data = array(
             'title' => 'Pesanan',
@@ -31,7 +35,7 @@ class PagesController extends Controller
     }
 
     public function index(){
-        $title = 'Welcome to Laravel!';
+        $title = 'Welcome to Sosling!';
         // return view('pages.index', compact('title'));
         return view('pages.index')->with('title', $title);
     }
