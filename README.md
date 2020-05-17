@@ -42,7 +42,12 @@ Target dari aplikasi kami adalah masyarakat yang hendak melakukan kegiatan wisat
 
 # Use Case Diagram
 ![Untitled Diagram (2)](https://user-images.githubusercontent.com/60084871/82138309-b7afae80-9849-11ea-9ad3-608c6adc9f6d.png)
+
 # Use Case Description
+![userdes1](https://user-images.githubusercontent.com/60084871/82154167-49dda400-9896-11ea-9e6f-2e32e1d054c3.png)
+![userdes22](https://user-images.githubusercontent.com/60084871/82154173-506c1b80-9896-11ea-8abb-0002ed9852df.png)
+![userdes3](https://user-images.githubusercontent.com/60084871/82154181-56fa9300-9896-11ea-97bc-c4547af5a222.png)
+
 # Activity Diagram
 ## Proses Login dan Daftar Akun
 ![Untitled Diagram-Page-2](https://user-images.githubusercontent.com/60084871/82138321-ce560580-9849-11ea-9e8d-4cda2d689332.png)
