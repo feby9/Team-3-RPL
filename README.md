@@ -59,4 +59,4 @@ Target dari aplikasi kami adalah masyarakat yang hendak melakukan kegiatan wisat
 ![Untitled Diagram-Page-5](https://user-images.githubusercontent.com/60084871/82138332-d4e47d00-9849-11ea-8125-a4253d19ba32.png)
 # Hasil Implementasi Perangkat Lunak
 
- 
+ https://youtu.be/kPf5WxRfRV8
