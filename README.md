@@ -44,8 +44,11 @@ Target dari aplikasi kami adalah masyarakat yang hendak melakukan kegiatan wisat
 ![Untitled Diagram (2)](https://user-images.githubusercontent.com/60084871/82138309-b7afae80-9849-11ea-9ad3-608c6adc9f6d.png)
 # Use Case Description
 # Activity Diagram
+** 
+
 # Gantt Chart
 # ERD
+
 # Hasil Implementasi Perangkat Lunak
 
  
