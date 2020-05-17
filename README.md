@@ -44,8 +44,14 @@ Target dari aplikasi kami adalah masyarakat yang hendak melakukan kegiatan wisat
 ![Untitled Diagram (2)](https://user-images.githubusercontent.com/60084871/82138309-b7afae80-9849-11ea-9ad3-608c6adc9f6d.png)
 # Use Case Description
 # Activity Diagram
-** 
+## Proses Login dan Daftar Akun
+![Untitled Diagram-Page-2](https://user-images.githubusercontent.com/60084871/82138321-ce560580-9849-11ea-9e8d-4cda2d689332.png)
 
+## Proses Pemesanan Paket Wisata
+![Untitled Diagram-Page-4](https://user-images.githubusercontent.com/60084871/82138317-c39b7080-9849-11ea-81fe-9a7381ba6869.png)
+
+## Proses Penambahan Lokasi Wisata
+![Untitled Diagram-Page-3](https://user-images.githubusercontent.com/60084871/82138319-c9915180-9849-11ea-9916-c77de6c2669b.png)
 # Gantt Chart
 # ERD
 ![Untitled Diagram-Page-5](https://user-images.githubusercontent.com/60084871/82138332-d4e47d00-9849-11ea-8125-a4253d19ba32.png)
