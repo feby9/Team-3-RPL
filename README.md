@@ -41,6 +41,7 @@ Target dari aplikasi kami adalah masyarakat yang hendak melakukan kegiatan wisat
 - Sebagai seorang yang ingin melakukan perjalanan wisata, saya ingin melakukan banyak pemesanan wisata secara sekaligus tentunya dengan jadwal wisata yang terstruktur.
 
 # Use Case Diagram
+![Untitled Diagram (2)](https://user-images.githubusercontent.com/60084871/82138309-b7afae80-9849-11ea-9ad3-608c6adc9f6d.png)
 # Use Case Description
 # Activity Diagram
 # Gantt Chart
