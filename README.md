@@ -52,11 +52,16 @@ Target dari aplikasi kami adalah masyarakat yang hendak melakukan kegiatan wisat
 
 ## Proses Penambahan Lokasi Wisata
 ![Untitled Diagram-Page-3](https://user-images.githubusercontent.com/60084871/82138319-c9915180-9849-11ea-9916-c77de6c2669b.png)
+
 # Gantt Chart
 ## TRELLO
 ![trellofixxx](https://user-images.githubusercontent.com/60084871/82147817-974c1800-987a-11ea-9545-42cb76ab69dd.png)
+## Team Gantt
+![team gantt](https://user-images.githubusercontent.com/60084871/82153627-d8502680-9892-11ea-81f4-33235021ce88.png)
+
 # ERD
 ![Untitled Diagram-Page-5](https://user-images.githubusercontent.com/60084871/82138332-d4e47d00-9849-11ea-8125-a4253d19ba32.png)
+
 # Hasil Implementasi Perangkat Lunak
 
  https://youtu.be/kPf5WxRfRV8
