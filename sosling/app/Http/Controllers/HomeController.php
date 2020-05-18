@@ -1,14 +1,12 @@
 <?php
-
 namespace App\Http\Controllers;
-
 use Illuminate\Http\Request;
 use App\User;
 
 class HomeController extends Controller
 {
     /**
-     * Create a new controller instance.
+     * Buat instansi controller
      *
      * @return void
      */
@@ -16,9 +14,8 @@ class HomeController extends Controller
     {
         $this->middleware('auth');
     }
-
     /**
-     * Show the application dashboard.
+     * Tampilkan home untuk user teregistrasi
      *
      * @return \Illuminate\Contracts\Support\Renderable
      */

@@ -31,11 +31,8 @@ class PostsController extends Controller
 
         // Kalo mau pake DB 
         // $posts = DB::select('SELECT * FROM posts');
-//        $posts = Post::orderBy('title','desc')->get();
-//        $posts = Post::orderBy('title','desc')->take(1)->get();
 
         $posts = Post::orderBy('created_at','desc')->paginate(10);
-
         return view('posts.index')->with('posts', $posts);
     }
 
@@ -63,7 +60,6 @@ class PostsController extends Controller
             'body' => 'required',
             'cover_image' => 'image|nullable|max:1999'
         ]);
-
         //Handle File yang diupload
         if($request->hasFile('cover_image')){
             //Get filename dengan extension
@@ -76,11 +72,9 @@ class PostsController extends Controller
             $fileNameToStore = $filename.'_'.time().'.'.$extension;
             //Upload image
             $path = $request->file('cover_image')->storeAs('public/cover_images', $fileNameToStore);
-
-        } else {
-            $fileNameToStore = 'noimage.jpg';
+        } else { 
+            $fileNameToStore = 'noimage.jpg'; 
         }
-
         // Buat Post
         $post = new Post;
         $post->title = $request->input('title');
@@ -137,7 +131,7 @@ class PostsController extends Controller
             'price' => 'required',
             'body' => 'required'
         ]);
-
+        
         //Handle File yang diupload
         if($request->hasFile('cover_image')){
             //Get filename dengan extension
@@ -152,7 +146,6 @@ class PostsController extends Controller
             $path = $request->file('cover_image')->storeAs('public/cover_images', $fileNameToStore);
 
         }
-
         // Buat Post
         $post = Post::find($id);
         $post->title = $request->input('title');
@@ -164,7 +157,6 @@ class PostsController extends Controller
         $post->save();
 
         return redirect('/posts')->with('success', 'Postingan Berhasil Diupdate');
-
     }
 
     /**

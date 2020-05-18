@@ -1,10 +1,7 @@
 @extends('layouts.app')
-
 @section('content')
 
-<div style="align:center;">
 <div class="container">
-
     <form class="well form-horizontal" action=" " method="post"  id="contact_form">
 <fieldset>
 
@@ -86,20 +83,20 @@
 
 <!-- radio checks -->
  <div class="form-group">
-                        <label class="col-md-4 control-label">Buat Grup/Join Grup?</label>
-                        <div class="col-md-4">
-                            <div class="radio">
-                                <label>
-                                    <input type="radio" name="group" value="make_group" /> Buat Grup
-                                </label>
-                            </div>
-                            <div class="radio">
-                                <label>
-                                    <input type="radio" name="group" value="join_group" /> Join Grup
-                                </label>
-                            </div>
-                        </div>
-                    </div>
+  <label class="col-md-4 control-label">Buat Grup/Join Grup?</label>
+  <div class="col-md-4">
+      <div class="radio">
+          <label>
+              <input type="radio" name="group" value="make_group" /> Buat Grup
+          </label>
+      </div>
+      <div class="radio">
+          <label>
+              <input type="radio" name="group" value="join_group" /> Join Grup
+          </label>
+      </div>
+  </div>
+</div>
 
 <!-- Text area -->
   
@@ -120,11 +117,8 @@
     <a href="/sukses" class="btn btn-warning">Pesan Sekarang</a>
   </div>
 </div>
-
 </fieldset>
 </form>
 </div>
     </div><!-- /.container -->
-  </div>
-
 @endsection

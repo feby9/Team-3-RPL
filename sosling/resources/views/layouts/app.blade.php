@@ -20,11 +20,9 @@
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
-
 </head>
 <body>
     <div id="app">
-
         <main class="py-4">
             @include('inc.navbar')
             <div class="container">
@@ -34,7 +32,6 @@
         </main>
         <link href="{{ asset('css/app.css') }}" rel="stylesheet" type="text/css" >
     </div>
-
     <script>
         ClassicEditor
             .create( document.querySelector( '#editor1' ) )
@@ -45,6 +42,5 @@
                 console.error( error );
             } );
     </script>
-
 </body>
 </html>

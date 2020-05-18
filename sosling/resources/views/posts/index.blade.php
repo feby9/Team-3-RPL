@@ -1,7 +1,5 @@
 @extends('layouts.app')
-
 @section('content')
-
     <h1>Daftar Wisata</h1>
     @if(count($posts) > 0)
         @foreach($posts as $post)
@@ -19,8 +17,6 @@
                             <small>Tertarik dengan penawaran ini? Kontak user melalui {{$post->user->email}}</small>    
                         </div>
                     </div>
-
-
                 </div>
             </div>
         @endforeach

@@ -13,8 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-
-
 /* Route::get('/hello', function () {
     return '<h1>Hello World</h1>';
 }); */
@@ -22,7 +20,6 @@ use Illuminate\Support\Facades\Route;
 /* Route::get('/users/{id}/{name}', function($id, $name) {
     return 'This is user '.$name.'with an id '.$id;
 }); */
-
 
 /* Route::get('/about', function() {
     return view('pages.about');
@@ -39,9 +36,6 @@ Route::get('/form_pesanan', 'PagesController@form_pesanan');
 Route::get('/sukses', 'PagesController@sukses');
 
 Route::resource('posts', 'PostsController');
-
-
-
 
 Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
