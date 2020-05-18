@@ -68,5 +68,17 @@ Target dari aplikasi kami adalah masyarakat yang hendak melakukan kegiatan wisat
 ![Untitled Diagram-Page-5](https://user-images.githubusercontent.com/60084871/82138332-d4e47d00-9849-11ea-8125-a4253d19ba32.png)
 
 # Hasil Implementasi Perangkat Lunak
+![Implementasi Edit](img/Sosling%20Edit.png)
+![PostsController Show & Edit](img/Sosling%20PostsController%20(show%20&%20edit).png)
+![PostsController Store](img/Sosling%20PostsController%20(store).png)
+![PostsController Update](img/Sosling%20PostsController%20(update).png)
+![PostsController Delete](img/Sosling%20PostsController%20(delete).png)
+![Implementasi Daftar Wisata](img/Sosling%20Show.png)
+![Layout Dasar Website](img/Sosling%20layout.png	)
+![Navbar Dasar Website](img/Sosling%20navbar.png)
+![PagesController untuk inisialisasi pages](img/Sosling%20PagesController.png)
+![Web Routes untuk bepergian di situs](img/Sosling%20web_route.png)
 
- https://youtu.be/kPf5WxRfRV8
+Preview @Youtube https://youtu.be/kPf5WxRfRV8
+ 
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/kPf5WxRfRV8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
