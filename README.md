@@ -19,6 +19,7 @@ Perkembangan bidang teknologi pada zaman ini, tentunya dapat kita manfaatkan seb
 4. Tourist dapat mengupdate data diri yang terdaftar pada paket wisata yang dipesan.
 5. Tourist dapat membatalkan pesanan paket wisata apabila pesanan belum terkonfirmasi.
 # Deskripsi Perangkat Lunak
+## Fitur Utama
 SOSLING ( Sosial travelling ) adalah aplikasi berbasis web yang berfungsi untuk melakukan pemesanan paket wisata dari berbagai daerah secara online. SOSLING memiliki fitur untuk melihat lokasi dan paket wisata, memesan paket wisata, dan menambahkan paket wisata.
 1. Melihat lokasi wisata
 Pada fitur ini, user dapat melihat berbagai lokasi wisata yang tersedia. Lokasi wisata dikategorikan menjadi 2 kategori, yaitu wisata pantai dan wisata pegunungan. Dalam hal ini akan disajikan deskripsi dan penjabaran paket wisata dari setiap lokasi.
@@ -26,6 +27,16 @@ Pada fitur ini, user dapat melihat berbagai lokasi wisata yang tersedia. Lokasi 
 Pada fitur ini, user dapat melakukan pemesanan paket wisata yang diinginkan. Pemesanan paket wisata dapat dilakukan lebih dari 1 kali, dengan ketentuan jadwal wisata yang dipesan tidak bersamaan.
 3. Menambahkan paket wisata
 Pada fitur ini, user dapat menambahkan lokasi wisata dengan mendaftarkan diri sebagai tourguide dan bertanggung jawab penuh atas berlangsungnya kegiatan wisata tersebut.
+## Fungsi CRUD
+Fungsi CRUD pada web SOSLING
+1. Create 
+Implementasi fungsi create pada web sosling terdapat pada fitur daftar akun dan fitur tambah lokasi wisata
+2. Read
+Implementasi fungsi read pada web sosling terdapat pada fitur login dan daftar akun yaitu pada saat pemasukkan password, fitur tambah lokasi wisata yaitu pada saat pengisian deskripsi paket wisata.
+3. Update
+Implementasi fungsi update pada web sosling yaitu terdapat pada fitur tambah lokasi wisata, pada fitur ini user dapat mengedit rekomendasi wisata yang telah ia buat sebelumnya.
+4. Delete
+Implementasi fungsi delete pada web sosling yaitu terdapat pada fitur tambah lokasi wisata, pada fitur ini user dapat menghapus lokasi wisata yang telah ia rekomendasikan.
 # Analisis User
 1. Target Aplikasi
 Target dari aplikasi kami adalah masyarakat yang hendak melakukan kegiatan wisata. 
