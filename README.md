@@ -1,9 +1,9 @@
 # SOSLING ( Sosial Travelling )
 Aplikasi berbasis web yang menampilkan berbagai paket lokasi wisata yang diperuntukkan kepada tourist yang ingin melakukan perjalanan wisata.
 # Kelompok 3
-1. Aqshal Deandra V             **G64180020**
-2. Feby Ardiansyah              **G64180059**
-3. Mutia Marcha Fatika          **G64180085**
+1. Aqshal Deandra V             **G64180020**   **(Database)**
+2. Feby Ardiansyah              **G64180059**   **(Backend)**
+3. Mutia Marcha Fatika          **G64180085**   **(Mock Up dan Frontend)**
 # Latar Belakang
 Hidup di negara yang memiliki julukan "Negara Kepulauan" adalah hal yang patut dibanggakan. Letak daerah yang saling terpisah tentunya secara tidak langsung akan membuat negara kita kaya akan berbagai adat, budaya, seni, bahkan sumber daya alam yang dimiliki. Potensi-potensi yang dimiliki daerah tersebut tentunya dapat kita manfaatkan sebagai sarana untuk mendorong bidang perekonomian di daerah. Namun, fakta yang terdapat dilapangan menyebutkan bahwa masih banyak daerah yang memiliki masalah dalam hal ekonomi. Kurangnya pemanfaatan potensi yang dimiliki tentunya menjadi akar permasalahan mengapa hal ini bisa terjadi. 
 
