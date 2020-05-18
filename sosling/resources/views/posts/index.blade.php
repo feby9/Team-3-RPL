@@ -13,6 +13,7 @@
                         </div>
                         <div class="col-md">
                             <h3><a href='/posts/{{$post->id}}'>{{$post->title}}</a></h3>
+                            <h3>Harga: {{$post->price}}</h3>
                             <small>Ditulis pada {{$post->created_at}} oleh {{$post->user->name}}</small>
                         </br>
                             <small>Tertarik dengan penawaran ini? Kontak user melalui {{$post->user->email}}</small>    

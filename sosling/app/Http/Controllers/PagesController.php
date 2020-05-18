@@ -22,6 +22,14 @@ class PagesController extends Controller
         return view('pages.landing');
     }
 
+    public function form_pesanan(){
+        return view('pages.form_pesanan');
+    }
+
+    public function sukses(){
+        return view('pages.sukses');
+    }
+
     public function pesanan(){
         $data = array(
             'title' => 'Pesanan',

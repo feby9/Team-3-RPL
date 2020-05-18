@@ -35,6 +35,8 @@ Route::get('/pesanan', 'PagesController@pesanan');
 Route::get('/bantuan', 'PagesController@bantuan');
 Route::get('/about', 'PagesController@about');
 Route::get('/', 'PagesController@landing');
+Route::get('/form_pesanan', 'PagesController@form_pesanan');
+Route::get('/sukses', 'PagesController@sukses');
 
 Route::resource('posts', 'PostsController');
 

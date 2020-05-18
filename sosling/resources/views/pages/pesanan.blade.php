@@ -10,7 +10,7 @@
         <meta name="Viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <title>Document</title>
-        <link rel="stylesheet" href="css/pesanan.css">
+        <link rel="stylesheet" href="/css/pesanan.css">
         <style>
             div.a {
                 text-align:center;
@@ -71,17 +71,17 @@
             </div>
             <div class="clearfix">
                 <div class="box" style="background-image: url('../img/image(2).jpg'); background-size:100% 100%;position: relative">
-                    <div class="text"><a href="#">Buat Pesanan untuk Pantai Kelagian</a>
+                    <div class="text"><a href="/form_pesanan">Buat Pesanan untuk Pantai Kelagian</a>
                     <p>Paket 1 Rp.3.000.000</p>
                 </div>
                 </div>
                 <div class="box" style="background-image: url('../img/image(1).jpg'); background-size:100% 100%; position: relative">
-                    <div class="text"><a href="#">Buat Pesanan untuk Pantai Kelagian</a>
+                    <div class="text"><a href="/form_pesanan">Buat Pesanan untuk Pantai Kelagian</a>
                     <p>Paket 2 Rp.5.000.000</p>
                     </div>
                 </div>
                     <div class="box" style="background-image: url('../img/image(3).jpg'); background-size:100% 100%;position: relative"> 
-                        <div class="text"><a href="#">Buat Pesanan untuk Pantai Kelagian</a>
+                        <div class="text"><a href="/form_pesanan">Buat Pesanan untuk Pantai Kelagian</a>
                         <p>Paket 3 Rp.7.000.000</p>
                     </div>
                     </div>
